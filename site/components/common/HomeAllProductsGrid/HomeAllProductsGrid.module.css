@@ -1,6 +1,6 @@
 .root {
   @apply py-12 flex flex-col w-full px-6;
-
+  padding: 2rem;
   @screen md {
     @apply flex-row;
   }
