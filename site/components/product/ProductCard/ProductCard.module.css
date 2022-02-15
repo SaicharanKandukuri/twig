@@ -4,7 +4,7 @@
   ease-linear cursor-pointer inline-block bg-accent-1;
   height: 100% !important;
   border-radius: 2rem;
-  padding: 20px;
+  padding: 0.5rem;
   max-width: 3000px;
   box-shadow: -2px 5px 20px rgba(0, 0, 0, 0.25);
 }
