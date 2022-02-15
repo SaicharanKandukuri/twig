@@ -73,6 +73,7 @@
 }
 
 .imageContainer {
+  border-radius: 2rem;
   @apply flex items-center justify-center overflow-hidden;
 }
 
@@ -83,6 +84,7 @@
 .imageContainer .productImage {
   @apply transform transition-transform duration-500
   object-cover scale-120;
+  border-radius: 0.5rem;
 }
 
 .root .wishlistButton {

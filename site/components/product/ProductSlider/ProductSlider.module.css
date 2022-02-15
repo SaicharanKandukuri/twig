@@ -1,6 +1,7 @@
 .root {
   @apply relative w-full h-full select-none;
   overflow: hidden;
+  border-radius: 4px;
 }
 
 .slider {
@@ -20,6 +21,8 @@
 
 .thumb.selected {
   @apply bg-white;
+  border-radius: 20px;
+  border: 4px solid #98E1A9;
 }
 
 .thumb img {
