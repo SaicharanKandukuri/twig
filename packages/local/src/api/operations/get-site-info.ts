@@ -34,6 +34,12 @@ export default function getSiteInfoOperation({}: OperationContext<any>) {
           slug: 'featured',
           path: '/featured',
         },
+        // {
+        //   id: 'location',
+        //   name: ''Location',
+        //   slug: 'location',
+        //   path: '/location',
+        // },
       ],
       brands: [],
     })
