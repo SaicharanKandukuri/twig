@@ -1,10 +1,10 @@
 {
   "provider": "local",
   "features": {
-    "wishlist": false,
-    "cart": false,
+    "wishlist": true,
+    "cart": true,
     "search": false,
-    "customerAuth": false,
-    "customCheckout": false
+    "customerAuth": true,
+    "customCheckout": true
   }
 }
