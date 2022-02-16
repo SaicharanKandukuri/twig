@@ -68,9 +68,9 @@ const Footer: FC<Props> = ({ className, pages }) => {
         </div>
         <div className="pt-6 pb-10 flex flex-col md:flex-row justify-between items-center space-y-4 text-accent-6 text-sm">
           <div>
-            <span>&copy; 2022 ODUL [ WOC 2022 HACKER SUBMISSION | Not in prouduction ].</span>
+            <span>&copy; 2022 ODHUL [ PREVIEW/PROTOTYPE | WOC 2022 HACKER SUBMISSION | Not in prouduction ].</span>
           </div>
-          <div className="flex items-center text-primary text-sm">
+          {/* <div className="flex items-center text-primary text-sm">
             <span className="text-primary">Hosted On</span>
             <a
               rel="noopener noreferrer"
@@ -84,7 +84,7 @@ const Footer: FC<Props> = ({ className, pages }) => {
                 alt="Vercel.com Logo"
               />
             </a>
-          </div>
+          </div> */}
         </div>
       </Container>
     </footer>
