@@ -14,7 +14,7 @@
   }
 
   & .aside {
-    @apply flex flex-row w-full justify-around mb-12;
+    @apply flex flex-col w-full justify-around mb-12;
 
     @screen md {
       @apply mb-0 block sticky top-32;

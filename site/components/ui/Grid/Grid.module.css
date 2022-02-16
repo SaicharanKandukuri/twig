@@ -1,5 +1,5 @@
 .root {
-  @apply grid grid-cols-1 gap-0;
+  @apply grid grid-cols-1 gap-1;
 }
 .root > * {
   @apply row-span-1 bg-transparent box-border overflow-hidden;

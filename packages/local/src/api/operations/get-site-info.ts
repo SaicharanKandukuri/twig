@@ -33,7 +33,7 @@ export default function getSiteInfoOperation({}: OperationContext<any>) {
           name: 'Featured',
           slug: 'featured',
           path: '/featured',
-        },
+        },     
         // {
         //   id: 'location',
         //   name: ''Location',
