@@ -1,10 +1,10 @@
 {
-  "name": "Next.js Commerce",
-  "short_name": "Next.js Commerce",
-  "description": "Next.js Commerce -> https://www.nextjs.org/commerce",
+  "name": "odhul | plant seed of love and life",
+  "short_name": "odhul",
+  "description": "odhul | plant seed of love and life",
   "display": "standalone",
   "start_url": "/",
-  "theme_color": "#fff",
+  "theme_color": "#98E1A9",
   "background_color": "#000000",
   "orientation": "portrait",
   "icons": [
