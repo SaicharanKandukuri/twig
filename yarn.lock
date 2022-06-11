@@ -2218,8 +2218,8 @@ dotenv@^12.0.3:
   resolved "https://registry.npmjs.org/dotenv/-/dotenv-12.0.4.tgz"
 
 dset@^3.1.0:
-  version "3.1.1"
-  resolved "https://registry.npmjs.org/dset/-/dset-3.1.1.tgz"
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/dset/-/dset-3.1.2.tgz#89c436ca6450398396dc6538ea00abc0c54cd45a"
 
 duplexer3@^0.1.4:
   version "0.1.4"
